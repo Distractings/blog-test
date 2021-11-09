@@ -5,12 +5,19 @@
 我的爱好有很多
 * 打游戏
 * 看科幻电影
+  
+喜欢的食物有
+1. 麻辣香锅
+2. 刀削面
+3. 甜点
+4. 可口可乐不是垃圾百事可乐
 
-学习过的变成语言有java，c++，html，css等
+学习过的变成语言有`java`，`c++`，`html`，`css`等
 ```javascript
 function f(){
     concole.log("唱跳rap篮球");
 }
 f();
 ```
+正在熟悉`git`和`markdown`操作
 
